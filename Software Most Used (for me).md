@@ -7,10 +7,12 @@
 - [Mac-Vim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [NB](https://github.com/xwmx/nb) - nb is a command line and local web note‑taking, bookmarking, archiving
 - [FD](https://github.com/sharkdp/fd) - fd is a program to find entries in your filesystem. It is a simple, fast and user-friendly alternative to find
-- 
+
 
 ## Player
 - [Infuse](https://firecore.com/infuse)
 - [Vlc](https://www.videolan.org/vlc/index.it.html)
 - [Iina](https://github.com/iina/iina)
+- [Vox Music Player](https://vox.rocks/mac-music-player)
 
+## 
