@@ -10,7 +10,7 @@
 - 
 
 ## Player
-- [Infuse] (https://firecore.com/infuse)
-- [Vlc] (https://www.videolan.org/vlc/index.it.html)
-- [Iina] (https://github.com/iina/iina)
+- [Infuse](https://firecore.com/infuse)
+- [Vlc](https://www.videolan.org/vlc/index.it.html)
+- [Iina](https://github.com/iina/iina)
 
