@@ -22,22 +22,22 @@
 - [Skype](https://www.skype.com/)
 
 ## Photo
-[Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
-[Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
-[Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
-[Luminar AI](https://skylum.com/it/luminar-ai-b)
-[Pixelmator Pro](https://www.pixelmator.com/pro/)
-[Saal Digital](https://www.saal-digital.it/)
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
+- [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
+- [Luminar AI](https://skylum.com/it/luminar-ai-b)
+- [Pixelmator Pro](https://www.pixelmator.com/pro/)
+- [Saal Digital](https://www.saal-digital.it/)
 
 ## Markdown 
-[iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
-[Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
-[Textastic](https://www.textasticapp.com/)
-[Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
+- [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
+- [Typora](http://www.typora.io/) - Truly minimal Markdown editor featuring seamless live preview.
+- [Textastic](https://www.textasticapp.com/)
+- [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 
 ## Office
 
-* [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) Documents that stand apart. 
-* [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) Build stunning presentations. 
-* [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) Create impressive spreadsheets. 
-* [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac.
+- [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) Documents that stand apart. 
+- [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) Build stunning presentations. 
+- [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) Create impressive spreadsheets. 
+- [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac.
