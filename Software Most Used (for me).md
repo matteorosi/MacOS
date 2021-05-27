@@ -41,3 +41,9 @@
 - [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) Build stunning presentations. 
 - [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) Create impressive spreadsheets. 
 - [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac.
+
+## Games
+- [Steam](https://store.steampowered.com/?l=italian)
+- [Epic Games](https://www.epicgames.com/store/it/)
+- [Battle Net](https://www.blizzard.com/it-it/)
+- [Geforce Now](https://www.nvidia.com/it-it/geforce-now/)
